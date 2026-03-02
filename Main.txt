@@ -1709,7 +1709,7 @@ function redzlib:MakeWindow(Configs)
     local Window, FirstTab = {}, false
     function Window:CloseBtn()
         local Dialog = Window:Dialog({
-            Title = "Lyra Hub",  
+            Title = "Lxnny Hub",  
             Text = "Tem certeza que ja vai sair?", 
             Options = {
                 {"Yes", function()  
